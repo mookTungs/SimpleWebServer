@@ -3,7 +3,7 @@
 V00796911
 Lab Section: B01
 
-Specification for this project: [a relative link](p1.pdf)
+[Specification for this project:](p1.pdf)
 
 How it works:
 1) check number of arguments when the program was invoked
